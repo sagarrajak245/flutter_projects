@@ -1,3 +1,5 @@
+These are my learning phase project of flutter app devlopment...
+
 # Dice Roller Game
 
 🎲 A simple Flutter app that simulates rolling dice. Tap the screen to roll and view the result.
